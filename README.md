@@ -6,4 +6,4 @@
 
 Entry for [One Emoji, One Dream Vacation](https://make.fun/bounty/u-grand-elephant-19-one-emoji-one-dream-vacation-62879a35).
 
-Writes a single dream-vacation emoji (`🏝️`) to `/output/entry.txt`.
+Writes a single dream-vacation emoji (`🏕️`) to `/output/entry.txt`.
